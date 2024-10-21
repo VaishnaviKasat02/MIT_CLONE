@@ -63,7 +63,7 @@ function App({ complist, update_list }) {
               <GitHubIcon
                 onClick={() =>
                   (window.location.href =
-                    "https://github.com/peeyush14goyal/MIT-Scratch-Clone")
+                    "https://github.com/VaishnaviKasat02/MIT_CLONE")
                 }
               />
             </Button>
